@@ -6,8 +6,8 @@
 ### Desenvolvedor em evolução · Trainee
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
-<img src="https://img.shields.io/static/v1?label=Level&message=2&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=1860&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=Level&message=3&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
+<img src="https://img.shields.io/static/v1?label=XP&message=3490&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=Python&color=22c55e&style=for-the-badge&logo=python&logoColor=white" alt="Main stack" />
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-activity-heatmap.svg?t=20260719205158)
+![Sua constância](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-activity-heatmap.svg?t=20260720172433)
 
 </div>
 
@@ -27,10 +27,10 @@
 
 <table>
   <tr>
-    <td align="center"><strong>15</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>42</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>29</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>80</strong><br/>estrelas conquistadas</td>
     <td align="center"><strong>2.8</strong><br/>media de estrelas</td>
-    <td align="center"><strong>1</strong><br/>dias de streak</td>
+    <td align="center"><strong>2</strong><br/>dias de streak</td>
     <td align="center"><strong>2</strong><br/>conquistas</td>
   </tr>
 </table>
@@ -39,23 +39,23 @@
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 5 | 6 | 4 | 15 | 42 | 2.8/3 |
+| 9 | 12 | 8 | 29 | 80 | 2.8/3 |
 
 ```text
-Activity  ░░░░░░░░░░░░░█
+Activity  ░░░░░░░░░░░░█▓
 ```
 
 ## Language Skills
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-language-skills.svg?t=20260719205158)
+![Language Skills](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-language-skills.svg?t=20260720172433)
 
 </div>
 
 | Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| Python | 2 | 710 / 2,297 | 15 |
+| Python | 3 | 43 / 3,737 | 29 |
 
 ## Achievements
 
@@ -71,6 +71,7 @@ Activity  ░░░░░░░░░░░░░█
 
 | Data | Desafios |
 |------|----------|
+| 2026-07-20 | 14 |
 | 2026-07-19 | 15 |
 
 ## Current Focus

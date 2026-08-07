@@ -7,7 +7,7 @@
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
 <img src="https://img.shields.io/static/v1?label=Level&message=3&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=3490&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=XP&message=5795&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=Python&color=22c55e&style=for-the-badge&logo=python&logoColor=white" alt="Main stack" />
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-activity-heatmap.svg?t=20260720172433)
+![Sua constância](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-activity-heatmap.svg?t=20260807153307)
 
 </div>
 
@@ -27,11 +27,11 @@
 
 <table>
   <tr>
-    <td align="center"><strong>29</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>80</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>46</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>129</strong><br/>estrelas conquistadas</td>
     <td align="center"><strong>2.8</strong><br/>media de estrelas</td>
-    <td align="center"><strong>2</strong><br/>dias de streak</td>
-    <td align="center"><strong>2</strong><br/>conquistas</td>
+    <td align="center"><strong>1</strong><br/>dias de streak</td>
+    <td align="center"><strong>3</strong><br/>conquistas</td>
   </tr>
 </table>
 
@@ -39,29 +39,30 @@
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 9 | 12 | 8 | 29 | 80 | 2.8/3 |
+| 15 | 19 | 12 | 46 | 129 | 2.8/3 |
 
 ```text
-Activity  ░░░░░░░░░░░░█▓
+Activity  ░░░░░░░░░░░░░░
 ```
 
 ## Language Skills
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-language-skills.svg?t=20260720172433)
+![Language Skills](https://raw.githubusercontent.com/phcazforces-jpg/phcazforces-jpg/HEAD/ata-language-skills.svg?t=20260807153307)
 
 </div>
 
 | Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| Python | 3 | 43 / 3,737 | 29 |
+| Python | 3 | 1,948 / 3,737 | 46 |
 
 ## Achievements
 
 <details open>
 <summary><strong>Latest unlocked badges</strong></summary>
 
+- 🐍 **Especialista Python** — Acerte 10 desafios de lógica em Python com 3 estrelas.
 - ⬆️ **Subiu de nível!** — Alcance o nível 2 ou superior.
 - 🧩 **Primeiro desafio de lógica** — Complete seu primeiro desafio de lógica.
 
@@ -71,7 +72,9 @@ Activity  ░░░░░░░░░░░░█▓
 
 | Data | Desafios |
 |------|----------|
-| 2026-07-20 | 14 |
+| 2026-08-07 | 1 |
+| 2026-07-23 | 15 |
+| 2026-07-20 | 15 |
 | 2026-07-19 | 15 |
 
 ## Current Focus
